@@ -22,6 +22,8 @@
   "homepage": "https://github.com/cobidev/simplefolio#readme",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.7.0",
+    "concurrently": "^8.2.0",
+    "http-server": "^14.1.1",
     "parcel": "^2.7.0",
     "prettier": "^2.7.1"
   },
