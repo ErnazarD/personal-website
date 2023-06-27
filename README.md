@@ -1,4 +1,5 @@
 Personal Website
+
 This is my personal website built with React. It showcases my skills, projects, and provides information about me as a React developer.
 
 About
@@ -17,7 +18,7 @@ To run this website locally, follow these steps:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/personal-website.git
+git clone https://github.com/ErnazarD/personal-website.git
 Navigate to the project directory:
 bash
 Copy code
